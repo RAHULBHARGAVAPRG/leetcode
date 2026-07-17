@@ -73,3 +73,19 @@ Each problem folder contains:
 Please consider giving it a **⭐ Star**. It motivates me to keep solving problems and improving this repository.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+<!---LeetCode Topics End-->
