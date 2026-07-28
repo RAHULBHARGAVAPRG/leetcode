@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Breadth-First Search
 |  |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Happy Coding! 🚀
 | ------- |
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +135,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
