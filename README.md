@@ -91,6 +91,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
@@ -98,12 +99,14 @@ Happy Coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
@@ -118,9 +121,14 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
