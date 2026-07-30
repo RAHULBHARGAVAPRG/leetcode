@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -130,6 +131,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
@@ -141,4 +143,12 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
