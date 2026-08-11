@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Breadth-First Search
 |  |
@@ -108,6 +109,7 @@ Happy Coding! 🚀
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
