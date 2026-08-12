@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -141,6 +143,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
@@ -160,6 +163,7 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
@@ -169,9 +173,11 @@ Happy Coding! 🚀
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
