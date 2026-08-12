@@ -84,6 +84,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +132,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +141,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +152,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -154,4 +161,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
