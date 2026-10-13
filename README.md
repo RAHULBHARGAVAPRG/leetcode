@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@ Happy Coding! 🚀
 | [0743-network-delay-time](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -197,4 +199,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/RAHULBHARGAVAPRG/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
